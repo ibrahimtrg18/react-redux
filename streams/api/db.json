@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream!",
+      "description": "this is greate stream",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "world",
+      "id": 2
+    },
+    {
+      "title": "Form Refactor v2 edited",
+      "description": "Form Refactor v2 edited",
+      "id": 6
+    }
+  ]
+}
